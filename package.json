@@ -1,0 +1,18 @@
+{
+  "name": "fritz-box-monitor",
+  "version": "1.0.0",
+  "description": "FritzBox Web-Interface Crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "Jannik Hurst",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^14.1.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.1"
+  }
+}
