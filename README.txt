@@ -19,3 +19,6 @@ Example post body:
         "ip": "192.168.178.10"
     }
 ]
+
+
+I personally used this to see whos currently @home.
